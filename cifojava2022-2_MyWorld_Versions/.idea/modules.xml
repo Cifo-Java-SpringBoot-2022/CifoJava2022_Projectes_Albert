@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyWorld_version_0.1/MyWorld_version_0.1.iml" filepath="$PROJECT_DIR$/MyWorld_version_0.1/MyWorld_version_0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWorld_version_0.2/MyWorld_version_0.2.iml" filepath="$PROJECT_DIR$/MyWorld_version_0.2/MyWorld_version_0.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWorld_version_0.3/MyWorld_version_0.3.iml" filepath="$PROJECT_DIR$/MyWorld_version_0.3/MyWorld_version_0.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWorld_version_0.4/MyWorld_version_0.4.iml" filepath="$PROJECT_DIR$/MyWorld_version_0.4/MyWorld_version_0.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWorld_version_0.6/MyWorld_version_0.6.iml" filepath="$PROJECT_DIR$/MyWorld_version_0.6/MyWorld_version_0.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWorld_version_1.0.1/MyWorld_version_1.0.1.iml" filepath="$PROJECT_DIR$/MyWorld_version_1.0.1/MyWorld_version_1.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWorld_version_1.2.1/MyWorld_version_1.2.1.iml" filepath="$PROJECT_DIR$/MyWorld_version_1.2.1/MyWorld_version_1.2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWorld_version_2.0.0/MyWorld_version_2.0.0.iml" filepath="$PROJECT_DIR$/MyWorld_version_2.0.0/MyWorld_version_2.0.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWorld_version_2.1/MyWorld_version_2.1.iml" filepath="$PROJECT_DIR$/MyWorld_version_2.1/MyWorld_version_2.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWorld_version_2.4/MyWorld_version_2.4.iml" filepath="$PROJECT_DIR$/MyWorld_version_2.4/MyWorld_version_2.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyWorld_version_2.4.6/MyWorld_version_2.4.6.iml" filepath="$PROJECT_DIR$/MyWorld_version_2.4.6/MyWorld_version_2.4.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cifojava2022-2_MyWorld_Versions.iml" filepath="$PROJECT_DIR$/.idea/cifojava2022-2_MyWorld_Versions.iml" />
+    </modules>
+  </component>
+</project>

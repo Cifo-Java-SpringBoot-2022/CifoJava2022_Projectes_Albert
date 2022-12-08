@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="library1" />
+        <module name="library" />
+        <module name="library2" />
+        <module name="library4" />
+        <module name="library5" />
+        <module name="library2 (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="library" target="11" />
+      <module name="library1" target="11" />
+      <module name="library2" target="11" />
+      <module name="library2 (1)" target="11" />
+      <module name="library4" target="11" />
+      <module name="library5" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="library" options="-parameters" />
+      <module name="library1" options="-parameters" />
+      <module name="library2" options="-parameters" />
+      <module name="library2 (1)" options="-parameters" />
+      <module name="library4" options="-parameters" />
+      <module name="library5" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpbDataSourceConfig">
+    <data-sources>
+      <data-source id="875dfb39-6ca9-41fc-975e-6985f44e545e" name="universalplanes_Windows" url="jdbc:h2:tcp://localhost/c:/dataBaseH2/universalplanes" driverClass="org.h2.Driver" />
+      <data-source id="6ad04a4c-f85f-401d-b396-9d63f00fee4b" name="universalplanes_Mac" url="jdbc:h2:/Users/alex/DBaseH2/universalplanes" driverClass="org.h2.Driver" />
+    </data-sources>
+  </component>
+</project>

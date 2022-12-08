@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/cifojava2022-6.iml" filepath="$PROJECT_DIR$/.idea/cifojava2022-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpainherencelibrary/jpainherencelibrary.iml" filepath="$PROJECT_DIR$/jpainherencelibrary/jpainherencelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpainherencelibrary1/jpainherencelibrary1.iml" filepath="$PROJECT_DIR$/jpainherencelibrary1/jpainherencelibrary1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpainherencelibrary2/jpainherencelibrary2.iml" filepath="$PROJECT_DIR$/jpainherencelibrary2/jpainherencelibrary2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpainherencelibrary3/jpainherencelibrary3.iml" filepath="$PROJECT_DIR$/jpainherencelibrary3/jpainherencelibrary3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpainherencelibrary4/jpainherencelibrary4.iml" filepath="$PROJECT_DIR$/jpainherencelibrary4/jpainherencelibrary4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/universalplanes/universalplanes.iml" filepath="$PROJECT_DIR$/universalplanes/universalplanes.iml" />
+    </modules>
+  </component>
+</project>

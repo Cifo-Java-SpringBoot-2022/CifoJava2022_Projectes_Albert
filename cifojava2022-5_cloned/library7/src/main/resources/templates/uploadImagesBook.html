@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+<body>
+<body>
+<div class="w3-container w3-padding-64">
+<div th:if="${message}">
+  <h2 th:text="${message}"/>
+</div>
+
+
+<div class="w3-card-4" style="width:50%;">
+  <header class="w3-container w3-sand">
+    <h1>Upload image</h1>
+  </header>
+
+  <div class="w3-container w3-padding-64">
+
+    <form class="w3-container " action="#"
+          th:action="@{sendBookImage}" enctype="multipart/form-data" method="post">
+
+      <label>File to upload: </label>
+      <input class="w3-btn" type="file" name="file" />
+      <Br>
+      <input type="submit"   class="w3-btn w3-dark-grey" value="Upload" />
+
+    </form>
+  </div>
+
+  <footer class="w3-container w3-blue">
+    <h5>Thyemleaf</h5>
+  </footer>
+</div>
+
+</div>
+
+
+
+</body>
+</body>
+</html>
